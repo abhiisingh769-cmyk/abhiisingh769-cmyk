@@ -26,6 +26,8 @@ Right now, I am building **MoniFino**, a financial intelligence platform designe
 - `Vercel`
 - `Clerk`
 - `Firecrawl`
+- 'Antigravity'
+- 'CLaude code'
 - AI tools including `ChatGPT`, `Claude`, and `Gemini`
 
 ## Featured project
